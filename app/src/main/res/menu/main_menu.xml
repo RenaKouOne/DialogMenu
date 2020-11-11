@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/low"
+        android:orderInCategory="1"
+        android:title="Низкая сложность" />
+    <item
+        android:id="@+id/medium"
+        android:orderInCategory="2"
+        android:title="Средняя сложность" />
+    <item
+        android:id="@+id/high"
+        android:orderInCategory="3"
+        android:title="Высокая сложность" />
+</menu>
